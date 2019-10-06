@@ -1,0 +1,39 @@
+{"frames": {
+
+"stealth_duder1.png":
+{
+	"frame": {"x":1,"y":1,"w":22,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":22,"h":44},
+	"sourceSize": {"w":64,"h":64}
+},
+"stealth_duder2.png":
+{
+	"frame": {"x":1,"y":47,"w":22,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":22,"h":44},
+	"sourceSize": {"w":64,"h":64}
+},
+"stealth_duder3.png":
+{
+	"frame": {"x":1,"y":93,"w":22,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":22,"h":44},
+	"sourceSize": {"w":64,"h":64}
+}},
+"animations": {
+	"stealth_duder": ["stealth_duder1.png","stealth_duder2.png","stealth_duder3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA8888",
+	"size": {"w":24,"h":138},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:407c7a338ad56bbdaeb1ff6f64c1abfb:e2c4beff41cd64b5da858e10e02f4b9b:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}
