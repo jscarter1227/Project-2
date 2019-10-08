@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	font-family: helvetica;
+	font-size: 30px;
+	text-align: left;
+}
+body {
+	background-color: #bdb5a0;
+	color: #000000;
+}
+header{
+	color: #AA6363;
+}
+h2{
+	color: #706f6b;
+}
+p{
+	font-size: 20px;
+}
